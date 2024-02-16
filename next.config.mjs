@@ -1,4 +1,4 @@
-import "reflect-metadata";
+// import "reflect-metadata";
 import FilterWarningsPlugin from 'webpack-filter-warnings-plugin'
 
 /** @type {import('next').NextConfig} */
